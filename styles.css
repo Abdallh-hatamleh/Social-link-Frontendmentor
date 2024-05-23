@@ -18,6 +18,8 @@ main {
     background-color: #1f1f1f;
     margin: 40px 12px;
     padding: 22px;
+    width: 100%;
+    min-width: max-content;
     max-width: 440px;
     
 }
